@@ -1,4 +1,4 @@
-# NLP-Sentiment-analysis-Opera-Browser
+# NLP-Sentiment-analysis-Browser
 
 Note: This script is uploaded here for the purpose of being used as a reference for sentiment analysis. Therefore, there is no data available in this repository.
 
