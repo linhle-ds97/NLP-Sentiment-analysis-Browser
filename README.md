@@ -2,7 +2,7 @@
 
 Note: This script is uploaded here for the purpose of being used as a reference for sentiment analysis. Therefore, there is no data available in this repository.
 
-As a technology company, Opera has multiple online products. In order to understand the attitudes of users toward these products, I conducted a sentiment analysis with the data extracted from Google Reviews. The acquired outcome are top common features, top common adjectives for each feature, and average star rating overtime for each feature. The tables are ready for the use of creating dashboard.
+A technology company has multiple online products. In order to understand the attitudes of users toward these products, I conducted a sentiment analysis with the data extracted from Google Reviews. The acquired outcome are top common features, top common adjectives for each feature, and average star rating overtime for each feature. The tables are ready for the use of creating dashboard.
 
 The script has the following steps:
 
